@@ -23,7 +23,7 @@
 
 ###
 
-<p align="left">A passionate developer focused on full stack mobile apps from Pakistan</p>
+<p align="left">A passionate developer focused on full stack mobile apps development</p>
 - 🔭 I’m working as freelance on fiverr and upwork
 - 📚 I'm currently learning advance concepts in android development and Jetpack Compose
 - ⚡ In my free time, I develop different ideas and learn new technologies
