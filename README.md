@@ -4,6 +4,12 @@
 ###
 
 <div align="center">
+  <a href="https://www.upwork.com/freelancers/~0141070652aeb1f2af" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=UpWork&logo=upwork&label=&color=6fda44&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="upwork logo"  />
+  </a>
+  <a href="https://www.fiverr.com/users/zainulhassan456" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Fiverr&logo=&label=&color=1dbf75&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="fiverr logo"  />
+  </a>
   <a href="https://www.linkedin.com/in/zain-ul-hassan-1986321a0" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
