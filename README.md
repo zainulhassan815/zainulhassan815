@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Zain Ul Hassan</h1>
-
+<p align="center">A passionate developer focused on full stack mobile app development</p>
 ###
 
 <div align="center">
@@ -23,7 +23,6 @@
 
 ###
 
-<p align="left">A passionate developer focused on full stack mobile apps development</p>
 <ul>
   <li>🔭 I’m working as freelance on fiverr and upwork</li>
   <li>📚 I'm currently learning advance concepts in android development and Jetpack Compose</li>
