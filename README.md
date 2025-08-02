@@ -1,26 +1,26 @@
 <h1 align="center">Hi 👋, I'm Zain Ul Hassan</h1>
-<p align="center">A passionate developer focused on full stack mobile app development</p>
+<p align="center">🚀 A Full Stack Software Engineer building delightful apps across Mobile, Web & AI</p>
 
 ###
 
 <div align="center">
   <a href="https://www.upwork.com/freelancers/~0141070652aeb1f2af" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=UpWork&logo=upwork&label=&color=6fda44&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="upwork logo"  />
+    <img src="https://img.shields.io/static/v1?message=UpWork&logo=upwork&label=&color=6fda44&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="upwork logo" />
   </a>
   <a href="https://www.fiverr.com/users/zainulhassan456" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Fiverr&logo=&label=&color=1dbf75&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="fiverr logo"  />
+    <img src="https://img.shields.io/static/v1?message=Fiverr&logo=fiverr&label=&color=1dbf75&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="fiverr logo" />
   </a>
-  <a href="https://www.linkedin.com/in/zain-ul-hassan-1986321a0" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  <a href="https://www.linkedin.com/in/zainulhassan815" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" />
   </a>
   <a href="https://www.youtube.com/@DreamersLab" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
+    <img src="https://img.shields.io/static/v1?message=YouTube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo" />
   </a>
   <a href="https://twitter.com/zainulhassan815" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
+    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo" />
   </a>
   <a href="mailto:dreamerslabdev@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo" />
   </a>
 </div>
 
@@ -30,11 +30,11 @@
 
 ###
 
-<ul>
-  <li>🔭 I’m working as freelance on fiverr and upwork</li>
-  <li>📚 I'm currently learning advance concepts in android development and Jetpack Compose</li>
-  <li>⚡ In my free time, I develop different ideas and learn new technologies</li>
-</ul>
+I’m a **Full-Stack Software Engineer** with a strong foundation in **mobile**, **web**, and **AI development**. From crafting elegant UIs with **Kotlin** and **Jetpack Compose** to building scalable platforms using **React**, **Node.js**, and **Python**, I focus on creating intuitive, performance-driven experiences that solve real problems.
+
+My work blends **technical precision** with **thoughtful UI/UX design**. I’ve developed mobile apps with **Firebase** for real-time features, deployed systems on **AWS**, and built AI tools leveraging **RAG pipelines**, **vector search**, and **language models** for context-aware applications.
+
+What sets me apart is my **cross-domain versatility**, I design for the user, build for scalability, and optimize for performance. Whether it’s prototyping a mobile app, deploying a full-stack solution, or experimenting with AI, I strive to deliver software that is not just functional but truly delightful.
 
 ###
 
@@ -42,98 +42,56 @@
 
 ###
 
-<h4 align="left">Frontend</h4>
-
-###
+#### 📱 Mobile Development
 
 <div align="left">
-  <img src="https://cdn.simpleicons.org/android/3DDC84" height="46" alt="android logo"  />
-  <img width="8" />
-  <img src="https://skillicons.dev/icons?i=kotlin" height="46" alt="kotlin logo"  />
-  <img width="8" />
-  <img src="https://skillicons.dev/icons?i=java" height="46" alt="java logo"  />
-  <img width="8" />
-  <img src="https://skillicons.dev/icons?i=gradle" height="46" alt="gradle logo"  />
-  <img width="8" />
-  <img src="https://skillicons.dev/icons?i=androidstudio" height="46" alt="androidstudio logo"  />
-  <img width="8" />
-  <img src="https://skillicons.dev/icons?i=flutter" height="46" alt="flutter logo"  />
-  <img width="8" />
-  <img src="https://skillicons.dev/icons?i=dart" height="46" alt="dart logo"  />
-  <img width="8" />
-  <img src="https://skillicons.dev/icons?i=vscode" height="46" alt="vscode logo"  />
+  <img src="https://skillicons.dev/icons?i=kotlin,java,flutter,dart,androidstudio" height="46" />
 </div>
 
-###
-
-<h4 align="left">Backend Services</h4>
-
-###
+#### 🌐 Frontend Development
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=firebase" height="46" alt="firebase logo"  />
-  <img width="8" />
-  <img src="https://skillicons.dev/icons?i=supabase" height="46" alt="supabase logo"  />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,js,ts,tailwind,html,css,vscode" height="46" />
 </div>
 
-###
-
-<h4 align="left">Version Management</h4>
-
-###
+#### 🔧 Backend & APIs
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=github" height="46" alt="github logo"  />
-  <img width="8" />
-  <img src="https://skillicons.dev/icons?i=git" height="46" alt="git logo"  />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,python,ktor,flask,postgres,mysql,sqlite,prisma,redis" height="46" />
 </div>
 
-###
-
-<h4 align="left">Backend</h4>
-
-###
+#### 🔗 DevOps & Infrastructure
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=ktor" height="46" alt="ktor logo"  />
-  <img width="8" />
-  <img src="https://skillicons.dev/icons?i=nodejs" height="46" alt="nodejs logo"  />
-  <img width="8" />
-  <img src="https://skillicons.dev/icons?i=js" height="46" alt="javascript logo"  />
-  <img width="8" />
-  <img src="https://skillicons.dev/icons?i=ts" height="46" alt="typescript logo"  />
-  <img width="8" />
-  <img src="https://skillicons.dev/icons?i=prisma" height="46" alt="prisma logo"  />
-  <img width="8" />
-  <img src="https://skillicons.dev/icons?i=postman" height="46" alt="postman logo"  />
-  <img width="8" />
-  <img src="https://skillicons.dev/icons?i=postgres" height="46" alt="postgresql logo"  />
-  <img width="8" />
-  <img src="https://skillicons.dev/icons?i=mysql" height="46" alt="mysql logo"  />
+  <img src="https://skillicons.dev/icons?i=docker,nginx,aws,git,github,vercel,postman" height="46" />
 </div>
 
-###
-
-<h4 align="left">UI/UX</h4>
-
-###
+#### 🤖 AI/ML & Data
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=figma" height="46" alt="figma logo"  />
+  <img src="https://skillicons.dev/icons?i=py" height="46" />
   <img width="8" />
-  <img src="https://skillicons.dev/icons?i=ps" height="46" alt="adobephotoshop logo"  />
+  <img src="https://cdn.simpleicons.org/huggingface/FFBB00" height="46" alt="huggingface logo" />
   <img width="8" />
-  <img src="https://skillicons.dev/icons?i=ai" height="46" alt="adobeillustrator logo"  />
+  <img src="https://cdn.simpleicons.org/openaigym/000000" height="46" alt="openai logo" />
 </div>
 
-###
+#### 🔥 Cloud & Databases
 
-<h3 align="left">🔥   My Stats :</h3>
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=firebase,supabase,aws" height="46" />
+</div>
 
-###
+#### 🎨 Design & Prototyping
+
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=figma,ps,ai" height="46" />
+</div>
+
+---
+
+### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=zainulhassan815&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=zainulhassan815&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph" />
 </div>
-
-###
