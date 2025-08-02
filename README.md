@@ -88,7 +88,7 @@ What sets me apart is my **cross-domain versatility**, I design for the user, bu
   <img src="https://skillicons.dev/icons?i=figma,ps,ai" height="46" />
 </div>
 
----
+###
 
 ### 📊 GitHub Stats
 
