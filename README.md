@@ -57,7 +57,7 @@ What sets me apart is my **cross-domain versatility**, I design for the user, bu
 #### 🔧 Backend & APIs
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,python,ktor,flask,postgres,mysql,sqlite,prisma,redis" height="46" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,python,ktor,flask,postgres,mysql,sqlite,mongo,prisma,redis" height="46" />
 </div>
 
 #### 🔗 DevOps & Infrastructure
